@@ -1,0 +1,7 @@
+#png files
+*.png
+
+*.jpg
+
+#DS_store files
+*.DS_Store
